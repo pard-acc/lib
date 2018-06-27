@@ -9,7 +9,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Postal": "src/Postal_Info"
+      "Postal\\": "src/Postal_Info"
     }
   }
 }
