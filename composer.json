@@ -1,0 +1,15 @@
+{
+  "name": "CommonTools",
+  "description": "常用程式",
+  "type": "library",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Postal": "src/Postal_Info"
+    }
+  }
+}
