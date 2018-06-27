@@ -5,7 +5,7 @@
  * Time: 17:00
  */
 
-namespace Postal;
+namespace Postal\CommonTools;
 require_once "Redis.class.php";
 class Postal_Info {
     private $redis = null;
