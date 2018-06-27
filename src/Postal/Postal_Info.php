@@ -6,7 +6,7 @@
  */
 
 namespace Postal\CommonTools;
-require_once "Redis.class.php";
+//require_once "Redis.class.php";
 class Postal_Info {
     private $redis = null;
     
@@ -33,4 +33,10 @@ class Postal_Info {
     public function updatedCity() {
     
     }
+    
+    public function test() {
+        echo "test go!";
+    }
 }
+
+
